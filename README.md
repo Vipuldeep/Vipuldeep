@@ -21,5 +21,4 @@ Digital Marketing tools: Google console, Search Engine Optimization(SEO), Google
 Project Management Tools: Trello, Kanban and Jira(beginner). </p>
 
 
-
-![Vipuldeep's Github Stats](https://github-readme-stats.vercel.app/api?username=Vipuldeep&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipuldeep&layout=compact)](https://github.com/Vipuldeep/github-readme-stats)
