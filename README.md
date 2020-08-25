@@ -12,11 +12,12 @@
 <p align="justify">I'm a Brisbane based developer, SQL Developer, UI/UX Designer and a learning enthusiast who loves to create awesome and effective visual identities that do the better good.
 When I’m not working, I love hiking, working my way through every recipe in the family cookbook, and learning/practicing my IT skills.
 
-Competencies:  HTML5, CSS3, PHP, Bootstrap, SASS, JavaScript, WordPress, Shopify, WebFlow, Chart.JS, Model-View-Controller(MVC), Django Python and AWS S3 Server 
-prototyping UI/UX designs: Adobe.XD, Figma and Sketch.
-Database experience: MySQL and SQLITE.
-Version Control Systems: Git/GitHub.
-Digital Marketing tools: Google console, Search Engine Optimization(SEO), Google ads manager, Google Analytics, Facebook Analytics.
+### Competencies:  
+HTML5, CSS3, PHP, Bootstrap, SASS, JavaScript, WordPress, Shopify, WebFlow, Chart.JS, Model-View-Controller(MVC), Django Python and AWS S3 Server. <br> 
+prototyping UI/UX designs: Adobe.XD, Figma and Sketch. <br>
+Database experience: MySQL and SQLITE. <br>
+Version Control Systems: Git/GitHub. <br>
+Digital Marketing tools: Google console, Search Engine Optimization(SEO), Google ads manager, Google Analytics, Facebook Analytics. <br>
 Project Management Tools: Trello, Kanban and Jira(beginner). </p>
 
 
