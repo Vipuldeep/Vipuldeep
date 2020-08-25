@@ -14,11 +14,11 @@ When I’m not working, I love hiking, working my way through every recipe in th
 
 ### Competencies:  
 HTML5, CSS3, PHP, Bootstrap, SASS, JavaScript, WordPress, Shopify, WebFlow, Chart.JS, Model-View-Controller(MVC), Django Python and AWS S3 Server. <br> 
-prototyping UI/UX designs: Adobe.XD, Figma and Sketch. <br>
-Database experience: MySQL and SQLITE. <br>
-Version Control Systems: Git/GitHub. <br>
-Digital Marketing tools: Google console, Search Engine Optimization(SEO), Google ads manager, Google Analytics, Facebook Analytics. <br>
-Project Management Tools: Trello, Kanban and Jira(beginner). </p>
+**Prototyping UI/UX designs:** Adobe.XD, Figma and Sketch. <br>
+**Database experience:** MySQL and SQLITE. <br>
+**Version Control Systems:** Git/GitHub. <br>
+**Digital Marketing tools:** Google console, Search Engine Optimization(SEO), Google ads manager, Google Analytics, Facebook Analytics. <br>
+**Project Management Tools:** Trello, Kanban and Jira(beginner). </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipuldeep&layout=compact)](https://github.com/Vipuldeep/github-readme-stats)
