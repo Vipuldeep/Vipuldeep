@@ -9,10 +9,15 @@
 </p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="justify">I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya.
-I'm also currently doing my Bsc in IT while working on my company and other projects.
-I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation.
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime</p>
+<p align="justify">I'm a Brisbane based developer, SQL Developer, UI/UX Designer and a learning enthusiast who loves to create awesome and effective visual identities that do the better good.
+When I’m not working, I love hiking, working my way through every recipe in the family cookbook, and learning/practicing my IT skills.
+
+Competencies:  HTML5, CSS3, PHP, Bootstrap, SASS, JavaScript, WordPress, Shopify, WebFlow, Chart.JS, Model-View-Controller(MVC), Django Python and AWS S3 Server 
+prototyping UI/UX designs: Adobe.XD, Figma and Sketch.
+Database experience: MySQL and SQLITE.
+Version Control Systems: Git/GitHub.
+Digital Marketing tools: Google console, Search Engine Optimization(SEO), Google ads manager, Google Analytics, Facebook Analytics.
+Project Management Tools: Trello, Kanban and Jira(beginner). </p>
 
 
 
