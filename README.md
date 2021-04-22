@@ -13,8 +13,8 @@
 When I’m not working, I love hiking, working my way through every recipe in the family cookbook, and learning/practicing my IT skills.
 
 ### Competencies:  
-HTML5, CSS3, PHP, Bootstrap, SASS, JavaScript, WordPress, Shopify, WebFlow, Chart.JS, Model-View-Controller(MVC), Django Python and AWS S3 Server. <br> 
-**Prototyping UI/UX designs:** Adobe.XD, Figma and Sketch. <br>
+HTML5, CSS3, React.js, Node, ES6, PHP, Bootstrap, SASS, JavaScript, WordPress, Shopify, WebFlow, Chart.JS, Django Python and AWS S3 Server. <br> 
+**Prototyping UI/UX designs:** Adobe.XD and Sketch. <br>
 **Database experience:** MySQL and SQLITE. <br>
 **Version Control Systems:** Git/GitHub. <br>
 **Digital Marketing tools:** Google console, Search Engine Optimization(SEO), Google ads manager, Google Analytics, Facebook Analytics. <br>
