@@ -1,5 +1,3 @@
-[![Social banner for Vipuldeep](https://github.com/Vipuldeep/Vipuldeep/blob/master/assest/thisisvipul.jpg)](https://thisisvipul.com)
-
 <!--
 **Vipuldeep/Vipuldeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
