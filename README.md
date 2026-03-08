@@ -13,6 +13,3 @@ HTML5, CSS3, React.js, Node, ES6, PHP, Bootstrap, SASS, JavaScript, WordPress, S
 **Version Control Systems:** Git/GitHub. <br>
 **Digital Marketing tools:** Google console, Search Engine Optimization(SEO), Google ads manager, Google Analytics, Facebook Analytics. <br>
 **Project Management Tools:** Trello, Kanban and Jira(beginner). </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipuldeep&layout=compact)](https://github.com/Vipuldeep/github-readme-stats)
